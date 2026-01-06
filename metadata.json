@@ -1,0 +1,5 @@
+{
+  "name": "VerifAI - Email Validation Platform",
+  "description": "A robust, AI-powered email verification service mimicking enterprise API platforms. Features real-time DNS analysis, typo detection, and disposable email filtering.",
+  "requestFramePermissions": []
+}
